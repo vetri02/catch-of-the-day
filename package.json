@@ -1,0 +1,17 @@
+{
+  "name": "catch-of-the-day",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start -p 8000"
+  },
+  "dependencies": {
+    "firebase": "^5.7.0",
+    "next": "^7.0.2",
+    "prop-types": "^15.6.2",
+    "re-base": "^4.0.0",
+    "react": "^16.6.3",
+    "react-dom": "^16.6.3",
+    "react-transition-group": "^2.5.1"
+  }
+}
